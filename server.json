@@ -1,0 +1,9 @@
+{
+    "apps" : [{
+      "name" : "NGN_Binance",
+      "script"    : "bin/www.js",
+      "instances" : "max",
+      "exec_mode" : "cluster",
+      "time" : true
+    }]
+}

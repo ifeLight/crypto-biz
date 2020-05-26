@@ -1,0 +1,6 @@
+scratch
+node_modules
+.env
+crashlog.txt
+package-lock.json
+trader-result.txt
